@@ -8,10 +8,10 @@ The System Dynamics for Data Sciences (SD4DS) collection of exercises provides a
 
 | Exercise     | Topic | R | Python | Link to repository | YouTube tutorial | 
 | :---: |:-------| :---: | :---: |:---------| :-------- |
-| 01 | Running using Stella Simulator | Yes | Yes | https://github.com/CBSDLab/SD4DS_01 | |
-| 02 | Running a model using PySD | No | Yes | https://github.com/CBSDLab/SD4DS_02 | |
-| 03 | Policy analysis | Yes | No | https://github.com/CBSDLab/SD4DS_03 | |
-| 04 | Sensitivity analysis | Yes | No | https://github.com/CBSDLab/SD4DS_04 | |
+| 1.1 | Running using Stella Simulator | Yes | Yes | https://github.com/CBSDLab/SD4DS_01 | |
+| 1.2 | Running a model using PySD | No | Yes | https://github.com/CBSDLab/SD4DS_02 | |
+| 1.3 | Policy analysis | Yes | No | https://github.com/CBSDLab/SD4DS_03 | |
+| 1.4 | Sensitivity analysis | Yes | No | https://github.com/CBSDLab/SD4DS_04 | |
 
 # General resources
 
