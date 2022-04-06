@@ -8,7 +8,6 @@ The System Dynamics for Data Sciences (SD4DS) collection of exercises provides a
 
 | Exercise     | Topic | R | Python | Link to repository | YouTube tutorial | 
 | :---: |:-------| :---: | :---: |:---------| :-------- |
-| 00 | Organization of SD4DS and skills| na | na | https://github.com/CBSDLab/SD4DS_00 | |
 | 01 | Running using Stella Simulator | Yes | Yes | https://github.com/CBSDLab/SD4DS_01 | |
 | 02 | Running a model using PySD | No | Yes | https://github.com/CBSDLab/SD4DS_02 | |
 | 03 | Policy analysis | Yes | No | https://github.com/CBSDLab/SD4DS_03 | |
