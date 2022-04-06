@@ -4,14 +4,17 @@ The System Dynamics for Data Sciences (SD4DS) collection of exercises provides a
 
 # Basics
 
+Each exercise is organized as a GitHub repository. Each exercise provides an overview, step-by-step instructions, links to YouTube videos demonstrating the steps for replicating the exercises, and any additional resources. Since many tasks can be easily accomplished in R or Python, whenever possible, examples of both are provided. 
+
 # Overview of exercises
 
-| Exercise     | Topic | R | Python | Link to repository | YouTube tutorial | 
-| :---: |:-------| :---: | :---: |:---------| :-------- |
-| 1.1 | Running using Stella Simulator | Yes | Yes | https://github.com/CBSDLab/SD4DS_1-1 | |
-| 1.2 | Running a model using PySD | No | Yes | https://github.com/CBSDLab/SD4DS_1-2 | |
-| 1.3 | Policy analysis | Yes | No | https://github.com/CBSDLab/SD4DS_1-3 | |
-| 1.4 | Sensitivity analysis | Yes | No | https://github.com/CBSDLab/SD4DS_1-4 | |
+| Exercise     | Topic  | R     | Python | Link to repository |  
+| :---:        |:-------| :---: | :---:  |:-------------------| 
+| 1.0 | Accessing HPC | Yes | Yes | https://github.com/CBSDLab/sd4ds_1-0 |
+| 1.1 | Running using Stella Simulator | Yes | Yes | https://github.com/CBSDLab/SD4DS_1-1 |
+| 1.2 | Running a model using PySD | No | Yes | https://github.com/CBSDLab/SD4DS_1-2 |
+| 1.3 | Policy analysis | Yes | No | https://github.com/CBSDLab/SD4DS_1-3 | 
+| 1.4 | Sensitivity analysis | Yes | No | https://github.com/CBSDLab/SD4DS_1-4 |
 
 # General resources
 
