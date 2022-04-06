@@ -11,8 +11,8 @@ Each exercise is organized as a GitHub repository. Each exercise provides an ove
 | Exercise     | Topic  | R     | Python | Link to repository |  
 | :---:        |:-------| :---: | :---:  |:-------------------| 
 | 1.0 | Accessing HPC | Yes | Yes | https://github.com/CBSDLab/SD4DS_1-0 |
-| 1.1 | Running using Stella Simulator | Yes | Yes | https://github.com/CBSDLab/SD4DS_1-1 |
-| 1.2 | Running a model using PySD | No | Yes | https://github.com/CBSDLab/SD4DS_1-2 |
+| 1.1 | Running models using Stella Simulator | Yes | Yes | https://github.com/CBSDLab/SD4DS_1-1 |
+| 1.2 | Running models using PySD | No | Yes | https://github.com/CBSDLab/SD4DS_1-2 |
 | 1.3 | Policy analysis | Yes | No | https://github.com/CBSDLab/SD4DS_1-3 | 
 | 1.4 | Sensitivity analysis | Yes | No | https://github.com/CBSDLab/SD4DS_1-4 |
 
