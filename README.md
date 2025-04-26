@@ -10,7 +10,7 @@ Each exercise is organized as a GitHub repository. Each exercise provides an ove
 
 | Exercise     | Topic  | R     | Python | 
 | :---:        |:-------| :---: | :---:  |
-| 1.0 | [Accessing HPC](https://github.com/CBSDLab/SD4DS_1-0) | Yes | Yes |  
+| 1.0 | [Accessing HPC RStudio Server and Jupyter Notebook](https://github.com/CBSDLab/SD4DS_1-0) | Yes | Yes |  
 | 1.1 | [Running models using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-1) | Yes | Yes |  
 | 1.2 | [Running models using PySD](https://github.com/CBSDLab/SD4DS_1-2) | No | Yes |  
 | 1.3 | [Policy analysis](https://github.com/CBSDLab/SD4DS_1-3) | Yes | No |  
