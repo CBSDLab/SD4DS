@@ -14,7 +14,7 @@ Each exercise is organized as a GitHub repository. Each exercise provides an ove
 | 1.1 |  Running Vensim models interactively using PySD | Yes | Yes | 
 | 1.2 |  Running Stella models interactively using PySD | Yes | Yes | 
 | 1.3 |  Running Stella models interactively using Stella Simulator | Yes | Yes | 
-| 1.4 |  Setting up dynamic links to Stella models | Yes | No | 
+| 1.4 |  Setting up dynamic links in Stella models to Parms.csv and Results.csv files | Yes | No | 
 | 1.5 | [Running models using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-5) | Yes | No |
 | 1.6 | Creating simulation study.csv files | Yes | No | 
 
