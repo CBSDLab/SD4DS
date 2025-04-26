@@ -12,7 +12,6 @@ Each exercise is organized as a GitHub repository. Each exercise provides an ove
 | :---:        |:-------| :---: | :---:  |
 | 1.0 | [Accessing HPC through RStudio and Jupyter interactive sessions](https://github.com/CBSDLab/SD4DS_1-0) | Yes | Yes |  
 | 1.1 | [Running models using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-1) | Yes | Yes |  
-| 1.2 | [Simulation studies using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-2) | Yes | No | 
 
 # General resources
 
