@@ -10,8 +10,12 @@ Each exercise is organized as a GitHub repository. Each exercise provides an ove
 
 | Exercise     | Topic  | R     | Python | 
 | :---:        |:-------| :---: | :---:  |
-| 1.0 | [Accessing HPC through RStudio and Jupyter interactive sessions](https://github.com/CBSDLab/SD4DS_1-0) | Yes | Yes |  
-| 1.1 | [Running models using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-1) | Yes | Yes |  
+| 1.0 | [Accessing HPC through RStudio and Jupyter interactive sessions](https://github.com/CBSDLab/SD4DS_1-0) | Yes | Yes |
+| 1.1 |  Running Vensim models interactively using PySD | Yes | Yes | 
+| 1.2 |  Running Stella models interactively using PySD | Yes | Yes | 
+| 1.3 |  Running Stella models interactively using Stella Simulator | Yes | Yes | 
+| 1.4 |  Setting up dynamic links to Stella models | Yes | No | 
+| 1.5 | [Running models using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-5) | Yes | No |
 
 # General resources
 
