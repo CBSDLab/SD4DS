@@ -8,11 +8,13 @@ Each exercise is organized as a GitHub repository. Each exercise provides an ove
 
 # Overview of exercises
 
-| Exercise     | Topic  | R     | Python | 
-| :---:        |:-------| :---: | :---:  |
-| 1 | [Accessing HPC through RStudio and Jupyter interactive sessions](https://github.com/CBSDLab/SD4DS_1-0) | Yes | Yes |
-| 2 | [Running models using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-5) | Yes | No |
-| 3 | [Setting up and running a policy Analysis](https://github.com/CBSDLab/SD4DS-policy-analysis) | Yes | No |
+This section provides an overview of the exercises. 
+
+| Topic  | R     | Python | 
+|:-------| :---: | :---:  |
+| [Accessing HPC through RStudio and Jupyter interactive sessions](https://github.com/CBSDLab/SD4DS_1-0) | Yes | Yes |
+| [Running models using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-5) | Yes | No |
+| [Setting up and running a policy Analysis](https://github.com/CBSDLab/SD4DS-policy-analysis) | Yes | No |
 
 # General resources
 
