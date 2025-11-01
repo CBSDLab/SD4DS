@@ -16,6 +16,30 @@ This section provides an overview of the exercises.
 | [Running models using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-5) | Yes | No |
 | [Setting up and running a policy Analysis](https://github.com/CBSDLab/SD4DS-policy-analysis) | Yes | No |
 
+# Roadmap
+
+```mermaid
+---
+config:
+  theme: 'base'
+  themeVariables:
+    primaryColor: '#619F40'
+    primaryTextColor: '#FFFFFF'
+    primaryBorderColor: '#000000'
+    lineColor: '#F8B229'
+    secondaryColor: '#006100'
+    tertiaryColor: '#fff'
+---
+flowchart TB
+
+A[Accesing HPC] -->B[Stella Simulator]
+B --> C[Policy analysis]
+C --> D[Strategy analysis]
+D --> E[Sensitivity analysis]
+E --> F[Memory management]
+```
+
+
 # General resources
 
 * For general information and tutorials on using the CWRU HPC clusters, starting interactive sessions, and submitting/managing batch jobs, see https://sites.google.com/a/case.edu/hpcc/. 
