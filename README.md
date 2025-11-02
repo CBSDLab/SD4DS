@@ -26,17 +26,22 @@ config:
     primaryColor: '#619F40'
     primaryTextColor: '#FFFFFF'
     primaryBorderColor: '#000000'
-    lineColor: '#F8B229'
+    lineColor: '#000000'
     secondaryColor: '#006100'
     tertiaryColor: '#fff'
 ---
 flowchart TB
 
 A[Accesing HPC] -->B[Stella Simulator]
+A --> PySD[PySD]
+style PySD fill:#FFFFFF, color:#000000
 B --> C[Policy analysis]
 C --> D[Strategy analysis]
+style D fill:#BEE4A8, color:#000000
 D --> E[Sensitivity analysis]
+style E fill:#BEE4A8, color:#000000
 E --> F[Memory management]
+style F fill:#FFFFFF, color:#000000
 ```
 
 
