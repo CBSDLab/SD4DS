@@ -37,7 +37,6 @@ A --> PySD[PySD]
 style PySD fill:#FFFFFF, color:#000000
 B --> C[Policy analysis]
 C --> D[Strategy analysis]
-style D fill:#BEE4A8, color:#000000
 D --> E[Sensitivity analysis]
 style E fill:#BEE4A8, color:#000000
 E --> F[Memory management]
