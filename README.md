@@ -14,7 +14,8 @@ This section provides an overview of the exercises.
 |:-------| :---: | :---:  |
 | [Accessing HPC through RStudio and Jupyter interactive sessions](https://github.com/CBSDLab/SD4DS_1-0) | Yes | Yes |
 | [Running models using Stella Simulator](https://github.com/CBSDLab/SD4DS_1-5) | Yes | No |
-| [Setting up and running a policy Analysis](https://github.com/CBSDLab/SD4DS-policy-analysis) | Yes | No |
+| [Setting up and running a policy analysis](https://github.com/CBSDLab/SD4DS-policy-analysis) | Yes | No |
+| [Strategy analysis](https://github.com/CBSDLab/SD4DS-strategy-analysis) | Yes | No |
 
 # General resources
 
